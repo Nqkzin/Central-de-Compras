@@ -1,4 +1,5 @@
-🛒 Central de Compras
+# 🛒 Central de Compras
+
 Plataforma acadêmica para gerenciamento de lojistas e fornecedores, permitindo automatizar pedidos, campanhas promocionais e condições comerciais regionais.
 
 Este projeto é parte do trabalho da disciplina de Gerenciamento de Dados e Desenvolvimento de Aplicações.
